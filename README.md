@@ -1,6 +1,5 @@
-
 #The-wild-oasis
-Check out my new hotel management app made with React query, Supabase, and CSS-styled components.
+<br/>Check out my new hotel management app made with React query, Supabase, and CSS-styled components.
 This app is only built for the sole purpose of being used inside a hotel for management, with almost zero client interaction.
 If you want a client-side version where users can make accounts. log in by themselves and book cabins dynamically, please let me know, and I will work on that too. 
 Any feedback is appreciated.
