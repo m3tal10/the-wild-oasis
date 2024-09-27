@@ -11,6 +11,8 @@ export async function signUp({ email, password, fullName }) {
       },
     },
   });
+
+  return;
 }
 
 export async function login({ email, password }) {
